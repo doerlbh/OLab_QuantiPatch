@@ -1,3 +1,5 @@
+// By Baihan Lin, May 2014
+
 import java.io.*;
 import java.util.*;
 import javax.swing.*;
@@ -39,7 +41,7 @@ public class ConsoleTextArea extends JTextArea {
 				}
 				catch(IOException e) {
 					JOptionPane.showMessageDialog(null,
-							"read from BufferedReader err£º" + e);
+							"read from BufferedReader errï¿½ï¿½" + e);
 					System.exit(1);
 				}
 			}

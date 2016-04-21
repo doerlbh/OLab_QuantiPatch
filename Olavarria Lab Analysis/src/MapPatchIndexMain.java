@@ -1,6 +1,7 @@
 // The main method to run the entire analysis.
 // Client can input the data txt file needed to be analysis, and the calculation will
 // be displayed in the console window.
+// By Baihan Lin, May 2014
 
 import java.io.*;     // for File, FileNotFoundException
 import java.util.*;   // for Scanner, List, Set, Collections

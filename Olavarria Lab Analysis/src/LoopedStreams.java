@@ -1,3 +1,5 @@
+// By Baihan Lin, May 2014
+
 import java.io.*;
 public class LoopedStreams {
 	private PipedOutputStream pipedOS =
